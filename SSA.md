@@ -21,18 +21,33 @@
 - Each week: 4 Lectures, 4 workshops, 2 selfbooking labs, 1 drop-in.
 - Resources: Moodle; Library Reading list; Matlab. 
 
+- Assessments: 
+  - Essentials: Test: 20 Mark Question. In week #2.
+  - Main Exam: 80 Mark Questions. In week #4.
+  - Coursework. In week #7.
+
+
+## Plan 
+### Stress and Structure:
 | Week      | Topics | Assessments    |     
 | :---        |    :----:   |       ---: |
 | # 1   | Basics and Beam Design       |  |
-| # 2   | Combined Stress; Thin-walled session        | Essentials test: 20 marks question      |
+| # 2   | Combined Stress; Thin-walled session      | Essentials test: 20 marks question      |
 | # 3   | Energy Methods        |        |
-| # 4   | Lagrange formulation EoM, Modal Analysis   | Main exam: 80 marks      |
+| # 4 |  | Main exam: 80 marks|
+
+
+## Plan
+### Engineering Dynamics: 
+| Week      | Topics | Assessments    |     
+| :---        |    :----:   |       ---: |
+| # 4   | Lagrange formulation EoM, Modal Analysis   |       |
 | # 5   | Forced vibration and frequency Response |     |
 | # 6   | Sensitivity Analysis and Design        |       |
 | #     |    | Courswork submission |
 
 
-
+<!---
 # Markdown Demo
 
 
@@ -74,3 +89,5 @@ Content 3.2
 ## External 3.4 (Math)
 
 `\[ J(\theta_0,\theta_1) = \sum_{i=0} \]`
+
+--->
