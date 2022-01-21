@@ -1,3 +1,39 @@
+# 6E6Z2017 
+## Stress Structure & Engineering Dynamics 
+
+
+## Unit Learning Outcome
+
+1. Apply advanced engineering principles to analyse structural components.
+2. Work to appropriate British or European Standards and Codes of Practice.
+3. Carry out modal analysis and determine vibration response of multi-DOF systems.
+4. Construct valid simulation models of mechanical problems using industry standard software.
+
+
+## Assessments
+
+### Stress and Structure: Exam Only, 50% of the units 
+### Engineering Dynamics: Coursework Only, 50% of the units 
+
+
+## Plan
+
+- Each week: 4 Lectures, 4 workshops, 2 selfbooking labs, 1 drop-in.
+- Resources: Moodle; Library Reading list; Matlab. 
+
+| Week      | Topics | Assessments    |     
+| :---        |    :----:   |       ---: |
+| # 1   | Basics and Beam Design       |  |
+| # 2   | Combined Stress; Thin-walled session        | Essentials test: 20 marks question      |
+| # 3   | Energy Methods        |        |
+| # 4   | Lagrange formulation EoM, Modal Analysis   | Main exam: 80 marks      |
+| # 5   | Forced vibration and frequency Response |     |
+| # 6   | Sensitivity Analysis and Design        |       |
+| #     |    | Courswork submission |
+
+
+
+
 # Markdown Demo
 
 
