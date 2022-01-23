@@ -2,6 +2,8 @@
 ## Stress Structure & Engineering Dynamics 
 Dr Weizhuo Wang (w.wang@mmu.ac.uk)
 
+
+
 ## Unit Learning Outcome
 
 1. Apply advanced engineering principles to analyse structural components.
@@ -10,10 +12,12 @@ Dr Weizhuo Wang (w.wang@mmu.ac.uk)
 4. Construct valid simulation models of mechanical problems using industry standard software.
 
 
+
 ## Assessments
 
 ### Stress and Structure: Exam Only, 50% of the units 
 ### Engineering Dynamics: Coursework Only, 50% of the units 
+
 
 
 ## Plan
@@ -49,12 +53,14 @@ Dr Weizhuo Wang (w.wang@mmu.ac.uk)
 | #     |    | Courswork submission |
 
 
+
 ## Unit Team
 - [Dr Aron Teklemariam](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=4103)
 - [Dr Sravanthi Sashikumar](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=2353)
 - [Dr Elisa Roldan-Ciudad](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=4789)
 - [Dr Gary Dougill](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=4443)
 - [Dr Weizhuo Wang](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=2339)
+
 
 
 
