@@ -1,6 +1,6 @@
 # 6E6Z2017 
 ## Stress Structure & Engineering Dynamics 
-
+Dr Weizhuo Wang (w.wang@mmu.ac.uk)
 
 ## Unit Learning Outcome
 
@@ -29,6 +29,7 @@
 
 ## Plan 
 ### Stress and Structure:
+
 | Week      | Topics | Assessments    |     
 | :---        |    :----:   |       ---: |
 | # 1   | Basics and Beam Design       |  |
@@ -39,6 +40,7 @@
 
 ## Plan
 ### Engineering Dynamics: 
+
 | Week      | Topics | Assessments    |     
 | :---        |    :----:   |       ---: |
 | # 4   | Lagrange formulation EoM, Modal Analysis   |       |
@@ -47,47 +49,35 @@
 | #     |    | Courswork submission |
 
 
-<!---
-# Markdown Demo
+## Unit Team
+- [Dr Aron Teklemariam](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=4103)
+- [Dr Sravanthi Sashikumar](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=2353)
+- [Dr Elisa Roldan-Ciudad](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=4789)
+- [Dr Gary Dougill](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=4443)
+- [Dr Weizhuo Wang](https://www.mmu.ac.uk/engineering/staff/profile/index.php?id=2339)
 
 
 
-## External 1.1
-
-Content 1.1
-
-Note: This will only appear in the speaker notes window.
-
-
-## External 1.2
-
-Content 1.2
+## SS_Topic 1:
+### Beam Design (20 marks)
+- Be able to design a section and select a standard profile to resist bending and transverse shear.
+- Be able to apply the _perfect plasticity material model_ to analyse beam problems
 
 
-
-## External 2
-
-Content 2.1
-
+## SS_Topic 2:
+### Combined Stress (20 marks)
+- Determine stresses developed in a structual member’s cross-section when the axial load, torsion, bending and shear occur simultaneously.
 
 
-## External 3.1
-
-Content 3.1
-
-
-## External 3.2
-
-Content 3.2
+## SS_Topic 3:
+### Thin-walled Sections (20 marks)
+- Be able to calculate shear stress of thin-walled closed sections subjected to pure torsion
+- Be able to determine twist angle of thin-walled closed sections
 
 
-## External 3.3 (Image)
-
-![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
-
-
-## External 3.4 (Math)
-
-`\[ J(\theta_0,\theta_1) = \sum_{i=0} \]`
-
---->
+## SS_Topic 4:
+### Energy Methods (40 marks) 
+- Formulate the strain energy stored in a member, when it is subjected to an axial load, bending moment, transverse shear or torsional moment.
+- Apply the principle of conservation of energy to determine the stress and deflection
+- Apply the principle of virtual work to determine the displacement and slope at points on structural members and mechanical elements
+- Apply the Castigliano’s theorem to determine the displacement and slope at points on structural members and mechanical elements.
