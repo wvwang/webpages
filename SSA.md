@@ -50,7 +50,7 @@ Dr Weizhuo Wang (w.wang@mmu.ac.uk)
 | # 4   | Lagrange formulation EoM, Modal Analysis   |       |
 | # 5   | Forced vibration and frequency Response |     |
 | # 6   | Sensitivity Analysis and Design        |       |
-| #     |    | Courswork submission |
+| # 7   |    | Courswork submission |
 
 
 
