@@ -26,7 +26,7 @@ Dr Weizhuo Wang (w.wang@mmu.ac.uk)
 - Resources: Moodle; Library Reading list; Matlab. 
 
 - Assessments: 
-  - Essentials: Test: 20 Mark Question. In week #2.
+  - Essentials Test: 20 Mark Question. In week #2.
   - Main Exam: 80 Mark Questions. In week #4.
   - Coursework. In week #7.
 
